@@ -17,9 +17,9 @@ public class StringPalindrome {
 
 
         if (a.equals(reversedString))
-            System.out.println("THIS IS A PALINDROME");
+            System.out.println("THIS IS A PALINDROME STRING");
         else
-            System.out.println("THIS IS NOT A PALINDROME");
+            System.out.println("THIS IS NOT A PALINDROME STRING");
     }
 }
 
